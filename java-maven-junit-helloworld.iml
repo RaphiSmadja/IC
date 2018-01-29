@@ -23,6 +23,5 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-support:1.5.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.stefanbirkner:system-rules:1.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: commons-io:commons-io:2.6" level="project" />
-    <orderEntry type="library" name="Maven: org.codehaus.sonar:sonar-maven-plugin:${sonar-maven-plugin.version}" level="project" />
   </component>
 </module>

@@ -49,11 +49,6 @@
       </exclusions>
     </dependency>
 
-    <dependency>
-      <groupId>org.codehaus.sonar</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>${sonar-maven-plugin.version}</version>
-    </dependency>
   </dependencies>
 
   <build>
