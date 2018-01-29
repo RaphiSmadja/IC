@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92746ed5-dfe0-4e9b-84c0-cb366492cd76" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java" afterPath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -26,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWithTestsIT.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HelloWithTestsIT.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="114" lean-forward="false" selection-start-line="14" selection-start-column="114" selection-end-line="14" selection-end-column="114" />
+            <state relative-caret-position="223">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -91,11 +90,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloAppTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java" />
       </list>
     </option>
   </component>
@@ -787,7 +786,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5722000" />
+    <option name="totallyTimeSpent" value="5791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1081,14 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="114" lean-forward="false" selection-start-line="14" selection-start-column="114" selection-end-line="14" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -1103,6 +1094,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloWithTestsIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding />
         </state>
       </provider>
