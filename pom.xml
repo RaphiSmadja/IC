@@ -13,7 +13,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <sonar-maven-plugin.version>4.5.4</sonar-maven-plugin.version>
   </properties>
 
   <dependencies>
@@ -105,20 +104,6 @@
 
 
 
-<profiles>
-<profile>
-  <id>sonar</id>
-  <activation>
-    <activeByDefault>true</activeByDefault>
-  </activation>
-  <properties>
-    <!-- Optional URL to server. Default value is http://localhost:9000 -->
-    <sonar.host.url>
-      http://localhost:9000
-    </sonar.host.url>
-  </properties>
-</profile>
-</profiles>
 
 
 
