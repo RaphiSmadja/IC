@@ -108,20 +108,20 @@
 
 
 
-  <profiles>
-    <profile>
-      <id>sonar</id>
-      <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
-      <properties>
-        <!-- Optional URL to server. Default value is http://localhost:9000 -->
-        <sonar.host.url>
-          http://localhost:9000
-        </sonar.host.url>
-      </properties>
-    </profile>
-  </profiles>
+<profiles>
+<profile>
+  <id>sonar</id>
+  <activation>
+    <activeByDefault>true</activeByDefault>
+  </activation>
+  <properties>
+    <!-- Optional URL to server. Default value is http://localhost:9000 -->
+    <sonar.host.url>
+      http://localhost:9000
+    </sonar.host.url>
+  </properties>
+</profile>
+</profiles>
 
 
 
@@ -136,7 +136,7 @@
     </plugins>
   </reporting>
 
-  <url>https://github.com/quentingit/IC</url>
+<url>https://github.com/quentingit/IC</url>
 
 </project>
 
