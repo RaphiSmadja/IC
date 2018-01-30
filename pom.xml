@@ -137,7 +137,7 @@
     <snapshotRepository>
       <id>deployment</id>
       <name>Internal Snapshot Releases</name>
-      <url>  http://localhost:32772/repository/Integration/</url>
+      <url>http://localhost:32772/repository/Integration/</url>
     </snapshotRepository>
   </distributionManagement>
 
