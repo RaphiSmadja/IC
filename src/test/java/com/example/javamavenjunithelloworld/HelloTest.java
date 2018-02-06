@@ -18,11 +18,7 @@ public class HelloTest {
 
 
 
-    @Test(expected = IllegalArgumentException.class)
-    public void testIllegalArgumentForHello21() {
-        Hello hi = new Hello();
-        hi.setTimes(Hello.MAXIMUM_AMOUNT_OF_TIMES + 1);
-    }
+    
 
 
 }
